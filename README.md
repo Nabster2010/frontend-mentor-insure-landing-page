@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github repo]()
-- Live Site URL: [live site]()
+- Solution URL: [github repo](https://github.com/Nabster2010/frontend-mentor-insure-landing-page)
+- Live Site URL: [live site](https://legendary-tapioca-6c836f.netlify.app/)
 
 ## My process
 
