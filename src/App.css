@@ -1,0 +1,8 @@
+/* @media (max-width: 767px) {
+  .hero {
+    background-image: url("/images/bg-pattern-intro-left-mobile.svg"),
+      url("/images/bg-pattern-intro-right-mobile.svg");
+    background-position: 0 0, 100% 120%;
+    background-repeat: no-repeat, no-repeat;
+  }
+} */

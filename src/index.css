@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .introBgleft {
+    @apply bg-introMobile md:bg-introDesktop bg-no-repeat md:bg-introCornersDesktop bg-introCornersMobile;
+  }
+  /* .introBgRight {
+    @apply bg-introRightMobile md:bg-introRightDesktop bg-no-repeat md:bg-[right_top_20rem];
+  } */
+}
+
+body {
+  font-family: "Karla", sans-serif;
+}
