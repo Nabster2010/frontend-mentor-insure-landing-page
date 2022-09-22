@@ -31,7 +31,7 @@ Users should be able to:
 - Solution URL: [github repo](https://github.com/Nabster2010/frontend-mentor-insure-landing-page)
 - Live Site URL: [live site](https://legendary-tapioca-6c836f.netlify.app/)
 
-## My process
+
 
 ### Built with
 
